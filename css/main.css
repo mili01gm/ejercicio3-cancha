@@ -22,3 +22,10 @@ body {
   border: 2px solid white;
   margin: 10px;
 }
+#arco1,#arco2 {
+  position: absolute;
+  background-color: inherit;
+  border: 2px solid white;
+  width: 300px;
+  height: 200px;
+}
